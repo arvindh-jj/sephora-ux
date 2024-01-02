@@ -8,7 +8,8 @@
 4. FIGMA - Wireframes
 5. FIGMA - Mock Up
 6. FIGMA - Prototype
-
-![image](https://github.com/arvindh-jj/sephora-ux/assets/83699467/9d5675ae-7ed2-4c46-8d65-17c122a9d4d5)
-
 Link to the FIGMA - Prototype: https://www.figma.com/file/GbWiOvY7IBH2LRc7cXaqR1/SEPHORA-AA?type=design&node-id=3%3A11&mode=design&t=7Isqv2eW3Tpoyqjj-1
+
+![image](https://github.com/arvindh-jj/sephora-ux/assets/83699467/ae640d8d-b13e-41d6-bc76-2748176d0960)
+
+
