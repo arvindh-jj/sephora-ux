@@ -1,1 +1,0 @@
-https://www.figma.com/file/GbWiOvY7IBH2LRc7cXaqR1/SEPHORA-AA?type=design&node-id=3%3A11&mode=design&t=7Isqv2eW3Tpoyqjj-1
